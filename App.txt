@@ -2,3 +2,8 @@
 软件分类：工具-VPN
 软件标志：https://github.com/nailong78/App-Center/blob/main/256.png
 下载链接：https://github.com/nailong78/App-Center/releases/download/VPN/VPN_2.6.7_.apk
+
+软件名称：ClashMeta_2.11.16
+软件分类：工具-VPN
+软件标志：
+下载链接：https://github.com/nailong78/App-Center/releases/download/VPN2/ClashMeta_2.11.16.apk

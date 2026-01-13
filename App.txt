@@ -1,9 +1,11 @@
 软件名称：绿茶VPN_2.6.7_破解版
 软件分类：工具-VPN
-软件标志：https://github.com/nailong78/App-Center/blob/main/256.png
+软件标志：https://github.com/nailong78/App-Center/blob/main/绿茶VPN.png
 下载链接：https://github.com/nailong78/App-Center/releases/download/VPN/VPN_2.6.7_.apk
+简介：一款主打“无广告、零日志、无需注册”的免费梯子应用，提供全球60多个节点的网络加速与隐私加密服务。
 
 软件名称：ClashMeta_2.11.16
 软件分类：工具-VPN
 软件标志：https://github.com/nailong78/App-Center/blob/main/ClashMeta.png
 下载链接：https://github.com/nailong78/App-Center/releases/download/VPN2/ClashMeta_2.11.16.apk
+简介：一款基于开源代理内核 Clash Meta（现称 Mihomo）开发的 Android 客户端，旨在提供简洁、高效且功能强大的网络分流与科学上网体验。

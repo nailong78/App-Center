@@ -9,3 +9,9 @@
 软件标志：https://github.com/nailong78/App-Center/blob/main/ClashMeta.png
 下载链接：https://github.com/nailong78/App-Center/releases/download/VPN2/ClashMeta_2.11.16.apk
 简介：一款基于开源代理内核 Clash Meta（现称 Mihomo）开发的 Android 客户端，旨在提供简洁、高效且功能强大的网络分流与科学上网体验。
+
+软件名称：Pydroid3_6.2.1
+软件分类：工具-编程
+软件标志：https://github.com/nailong78/App-Center/blob/main/Pydroid3.webp
+下载链接：https://github.com/nailong78/App-Center/releases/download/Pydroid3_6.2.1/Pydroid3_6.2.1.apk
+简介：一款专为 Android 设计的轻量级、功能强大的离线 Python 3 集成开发环境 (IDE)，支持科学计算库（如 NumPy、Pandas）和图形界面开发。
